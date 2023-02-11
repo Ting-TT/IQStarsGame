@@ -1,0 +1,37 @@
+# IMPORTANT: It is very important that you correctly complete this originality
+# statement.
+#
+# This is your statement of your submitted work being your own.
+# Incorrectly filling out this statement could lead to charges
+# of academic misconduct.
+# 
+# For information on how to fill this out correctly, see
+# https://cs.anu.edu.au/courses/comp1110/help/faq/09-originality/
+#
+
+declaration: >-
+  I submit the work below for assessment as my best work. I declare that this
+  is entirely my own work, with the following documented exceptions:
+
+
+# I wish to submit the following methods as entirely my own (remove this if
+# you want to just submit classes):
+method:
+   - isGameStateValid(String gameStateString)
+   - locationInt(String gameString)
+   - locationString(int locationNo)
+   - fullPiece(String star)
+   - getViablePieceStrings(String gameStateString, int col, int row)
+   - isPieceOnBoard(String pieceString)
+   - notOverlapWithPieces(boolean[] boardStar, String pieceString)
+   - wizardsCorrectlyCover(String[] wizards, String[] stars, Set<Integer> starsLocations)
+   - occupiedColour(String piecePlacement)
+   - occupiedLocation(String gameState)
+   - emptyLocation(boolean[] occupiedLocation)
+   - updateGameState(String gameState, String pieceString)
+   - getSolution(String challenge)
+   - getFixedSolution(Set<String> usedColours, Set<String> emptyLocations, String gameState, Set<String> answerGameState)
+
+# sign *your* name and uid here
+name: Ting Tang
+uid: u7228238
