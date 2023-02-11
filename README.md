@@ -7,9 +7,9 @@ This assignment is **not currently used** for COMP1110 students.
 
 ## Demo pictures
 ### Starting page:  
-![Demo-1](demo/Demo-1.png)
+![Demo-1](demo/Demo-1.jpeg)
 
 ### Middle of the game:
-![Demo-2](demo/Demo-2.png)  
+![Demo-2](demo/Demo-2new.png)  
 ![Demo-3](demo/Demo-3.png)
 
